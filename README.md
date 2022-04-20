@@ -1,6 +1,6 @@
-# sylwiakmiec.github.io
-
 # Sylwia's Data Science Portfolio
+
+
 
 # [Project 1:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
 [link to the project:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
