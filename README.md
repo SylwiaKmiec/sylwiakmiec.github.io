@@ -89,7 +89,7 @@ to predict the bids in the future.
 
 
 # [Project 4:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
-  [link to the project:] (https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
+  [link to the project:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
  
 #### Customer Churn predictin and Feature selection
 
