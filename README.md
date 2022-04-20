@@ -13,10 +13,8 @@ process is termed as a 'bid'. A dataset is available at the following link and o
 customers
 https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset <br>
 
-Normal bids are classified as ‘0’ bids in the data set and anomalous bids as ‘1’. Your goal is to use classification
-or clustering algorithms to predict the bids in the future. You would need to clean and prepare the dataset
-for the machine learning modelling under the following guidelines for Data Preparation and Machine
-Learning modules.
+Normal bids are classified as ‘0’ bids in the data set and anomalous bids as ‘1’. The goal is to use classification
+to predict the bids in the future.
 
 # Performed:
 - Exploratory Data Analysis - EDA
