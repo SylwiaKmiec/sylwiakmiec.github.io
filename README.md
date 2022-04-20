@@ -67,28 +67,7 @@ to predict the bids in the future.
 
 
 
-# [Project 3:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
-[link to the project:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
-
-####  **Titanic Kaggle competition**: The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-####  Performed:
-   - Data exploration
-   - Data Visualisation
-   - Data Preparation
-   - Data Engineering
-   - ML models: SVM, Neighbours, Random Forest, Logistic Regression, Naive Bayes
-   - ML tunning models
-   - Models evaluation
-   - Model comparison
-
-![survival age](https://user-images.githubusercontent.com/80470115/162453410-5ce0259e-d7ad-4a72-aa0d-a7538a57c1c9.png)
-![survival rate](https://user-images.githubusercontent.com/80470115/162453428-3a47242f-893f-48bd-8ae8-49b1a8737cc1.png)
-
-## Final Model comparison:
-![model comparison titanic](https://user-images.githubusercontent.com/80470115/162453389-105df933-08bc-456b-89d6-b71b69765d01.png)
-
-
-# [Project 4:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
+# [Project 3:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
   [link to the project:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
  
 #### Customer Churn predictin and Feature selection
@@ -111,3 +90,23 @@ Part 3: ML Model Comparison
 ![FC_churn](https://user-images.githubusercontent.com/80470115/163564376-90b1c96f-5e3e-47a5-8092-b25a76124337.png)
 
 ![MC_churn](https://user-images.githubusercontent.com/80470115/163564381-a694e04a-64bf-4e86-a90e-92a02547df19.png)
+
+# [Project 4:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
+[link to the project:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
+
+####  **Titanic Kaggle competition**: The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+####  Performed:
+   - Data exploration
+   - Data Visualisation
+   - Data Preparation
+   - Data Engineering
+   - ML models: SVM, Neighbours, Random Forest, Logistic Regression, Naive Bayes
+   - ML tunning models
+   - Models evaluation
+   - Model comparison
+
+![survival age](https://user-images.githubusercontent.com/80470115/162453410-5ce0259e-d7ad-4a72-aa0d-a7538a57c1c9.png)
+![survival rate](https://user-images.githubusercontent.com/80470115/162453428-3a47242f-893f-48bd-8ae8-49b1a8737cc1.png)
+
+## Final Model comparison:
+![model comparison titanic](https://user-images.githubusercontent.com/80470115/162453389-105df933-08bc-456b-89d6-b71b69765d01.png)
