@@ -48,13 +48,17 @@ to predict the bids in the future.
 # [Project 2:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
 [link to the project:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
 
-# mice-protein-expression_clustering
+# mice-protein-expression_clustering 
 
 #### Application of: 
    - PCA, 
-   - KMeans and 
-   - KMedoids to the detaset,
-   - selection of best working model.
+   - KMeans  
+   - KMedoids
+   - DBSCAN
+   - OPTICS
+   - Agglomerative Hierarchical
+   - Fuzzy C-Means 
+   - Selection of the best based on Silhouette Score and visualization 
 
 ## Silhouette score visualizer: <br>
 ![silhouette chart](https://user-images.githubusercontent.com/80470115/162452356-0b9a91bf-ea28-48da-a5ee-a5aa9c0f7a05.png)
@@ -62,8 +66,17 @@ to predict the bids in the future.
 ## Original data vs K_means clusters: <br>
 ![kmeans clusters](https://user-images.githubusercontent.com/80470115/162452316-24b11526-1a82-4378-ac04-84745ea7b6bd.png)
 
+## Dendogram
+![den](https://user-images.githubusercontent.com/80470115/164703523-effc397d-f73e-43a5-b935-58886be1cfd2.png)
+
+## Optics results
+![optics](https://user-images.githubusercontent.com/80470115/164703616-cd2550cb-f0b6-44f0-b98c-0c37ac86acb9.png)
+
+
 ## Final Model comparison: <br>
-![model comp clustering](https://user-images.githubusercontent.com/80470115/162452345-e0aed0bd-57f1-42a4-a045-47b66817044e.png)
+![clust_final](https://user-images.githubusercontent.com/80470115/164703296-135f862d-aeea-4cdb-9b75-7195a43667fe.png)
+
+
 
 
 
