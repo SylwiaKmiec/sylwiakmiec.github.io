@@ -125,7 +125,7 @@ Part 3: ML Model Comparison
 ![model comparison titanic](https://user-images.githubusercontent.com/80470115/162453389-105df933-08bc-456b-89d6-b71b69765d01.png)
 
 
-## SQL project using MySQL
+## II. SQL project using MySQL
 
 ## [Project 1:](https://github.com/SylwiaKmiec/SQL-relational-database-design.git)
  This project shows the steps taken to design, write and implement database of real web-application.
