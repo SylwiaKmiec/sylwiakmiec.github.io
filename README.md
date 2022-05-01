@@ -1,3 +1,6 @@
+![head](https://user-images.githubusercontent.com/80470115/166144108-d40833c5-a815-4304-b1d8-19b7bf190812.png)
+9638b3bc.png)
+
 # Sylwia's Data Science Portfolio
 
 ## ABOUT
