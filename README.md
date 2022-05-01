@@ -1,6 +1,6 @@
 # Sylwia's Data Science Portfolio
 
-# ABOUT
+## ABOUT
 My name is Sylwia Kmiec I am a Data Analyst based in the Republic of Ireland. I hold a Bachelor’s in Accounting and Finance from the Higher School of Management and Finance in Wroclaw, Poland. 
 Currently completing <b>Higher Diploma in Science in Data Analytics for Business with Python programming language.</b><br>
 I have 14 years of experience working as a Credit Analyst analyzing data, reporting outcomes creating dashboards, and improving results.  Another aspect of my role was working closely with the technical department to improve processes, resolving issues, testing, and validating data, supporting system upgrades, and implementing new applications such as Oracle Business Intelligence suite, and new Oracle modules.
