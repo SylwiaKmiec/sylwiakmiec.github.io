@@ -1,11 +1,11 @@
 # Sylwia's Data Science Portfolio
 
+## I. Machine Learning projects using Python
 
-
-# [Project 1:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
+## [Project 1:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
 [link to the project:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
 
-# Ebay-bidding prediction
+## Ebay-bidding prediction
 #### Problem statement:
 Online retailer, eBay is providing an option of bidding to their customers globally. Bidding is employed to find
 the real price of items in the market based on the demand. The price offered by anyone participating in this
@@ -16,7 +16,7 @@ https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset <br>
 Normal bids are classified as ‘0’ bids in the data set and anomalous bids as ‘1’. The goal is to use classification
 to predict the bids in the future.
 
-# Performed:
+## Performed:
 - Exploratory Data Analysis - EDA
 - Data Preparation
 - Data Engineering
@@ -45,10 +45,10 @@ to predict the bids in the future.
 
 
 
-# [Project 2:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
+## [Project 2:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
 [link to the project:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
 
-# mice-protein-expression_clustering 
+## mice-protein-expression_clustering 
 
 #### Application of: 
    - PCA, 
@@ -80,7 +80,7 @@ to predict the bids in the future.
 
 
 
-# [Project 3:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
+## [Project 3:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
   [link to the project:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
  
 #### Customer Churn predictin and Feature selection
@@ -104,7 +104,7 @@ Part 3: ML Model Comparison
 
 ![MC_churn](https://user-images.githubusercontent.com/80470115/163564381-a694e04a-64bf-4e86-a90e-92a02547df19.png)
 
-# [Project 4:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
+## [Project 4:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
 [link to the project:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
 
 ####  **Titanic Kaggle competition**: The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
@@ -123,3 +123,20 @@ Part 3: ML Model Comparison
 
 ## Final Model comparison:
 ![model comparison titanic](https://user-images.githubusercontent.com/80470115/162453389-105df933-08bc-456b-89d6-b71b69765d01.png)
+
+
+## SQL project using MySQL
+
+## [Project 1:](https://github.com/SylwiaKmiec/SQL-relational-database-design.git)
+ This project shows the steps taken to design, write and implement database of real web-application.
+ For this project I have chosen application: Booking_hotel_room.com.
+ 
+ Tabel of Contents:
+ 1. ERD
+ 2. Relational Model UML
+ 3. MySQL script:
+    - joins
+    - views
+    - procedures
+    - functions
+    - triggers
