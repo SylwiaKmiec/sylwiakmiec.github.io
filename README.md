@@ -1,5 +1,14 @@
 # Sylwia's Data Science Portfolio
 
+# ABOUT
+My name is Sylwia Kmiec I am a Data Analyst based in the Republic of Ireland. I hold a Bachelor’s in Accounting and Finance from the Higher School of Management and Finance in Wroclaw, Poland. 
+Currently completing Higher Diploma in Science in Data Analytics for Business with Python programming language.
+I have 14 years of experience working as a Credit Analyst analyzing data, reporting outcomes creating dashboards, and improving results.  Another aspect of my role was working closely with the technical department to improve processes, resolving issues, testing, and validating data, supporting system upgrades, and implementing new applications such as Oracle Business Intelligence suite, and new Oracle modules.
+Participated in several projects: Jira ticketing system, Tableau server reporting package for Finance.
+I have done several Continues Professional Diplomas level 8 such as Database Systems, Python for Data Management, and Data Analytics with Dublin Universities. 
+I also have many passion projects that have strengthened my analytical abilities. I am searching for a data analytics position in Ireland. Please take a  look at my portfolio and send me an email with any questions you have about it, thank you.
+
+
 ## I. Machine Learning projects using Python
 
 ## [Project 1:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
