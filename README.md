@@ -128,6 +128,7 @@ Part 3: ML Model Comparison
 ## II. SQL project using MySQL
 
 ## [Project 1:](https://github.com/SylwiaKmiec/SQL-relational-database-design.git)
+   [link to the project](https://github.com/SylwiaKmiec/SQL-relational-database-design.git)
  This project shows the steps taken to design, write and implement database of real web-application.
  For this project I have chosen application: Booking_hotel_room.com.
  
