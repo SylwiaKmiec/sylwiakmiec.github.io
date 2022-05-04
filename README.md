@@ -86,23 +86,6 @@ Part 3: ML Model Comparison
 ![churn_com](https://user-images.githubusercontent.com/80470115/166143209-65c5fc45-0e86-4646-9e2e-427f123421fa.png)
 
 
-## [Project 4:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
-[link to the project:](https://github.com/SylwiaKmiec/titanic_kaggle.git)
-
-####  **Titanic Kaggle competition**: The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-####  Performed:
-   - Data exploration
-   - Data Visualisation
-   - Data Preparation
-   - Data Engineering
-   - ML models: SVM, Neighbours, Random Forest, Logistic Regression, Naive Bayes
-   - ML tunning models
-   - Models evaluation
-   - Model comparison
-
-![Titanic_com](https://user-images.githubusercontent.com/80470115/166143215-0bfac314-d6bb-4b71-a831-19fdeabc05ff.png)
-
-
 ## II. SQL project using MySQL
 
 ## [Project 1:](https://github.com/SylwiaKmiec/SQL-relational-database-design.git)
@@ -124,3 +107,14 @@ Part 3: ML Model Comparison
 
 
 ![sql](https://user-images.githubusercontent.com/80470115/166143221-5dc8886a-9b91-4fd1-96c8-cddc9638b3bc.png)
+
+## III. Excel interactive visualisations
+
+[link to the file]
+
+The data represents company debtors results, reported on monthly basis.
+The results have been analysed and compared to target.
+
+![excel](https://user-images.githubusercontent.com/80470115/166806159-7da0f780-89cb-4f42-8432-9faeb5e99102.png)
+
+
