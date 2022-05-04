@@ -110,7 +110,7 @@ Part 3: ML Model Comparison
 
 ## III. Excel interactive visualisations
 
-[link to the file]
+[link to the file](https://github.com/SylwiaKmiec/Excel-interactive-charts.git)
 
 The data represents company debtors results, reported on monthly basis.
 The results have been analysed and compared to target.
