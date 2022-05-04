@@ -6,7 +6,7 @@
 ## ABOUT
 My name is Sylwia Kmiec. I am a Data Analyst based in the Republic of Ireland. I hold a bachelor’s degree in Accounting and Finance from the Higher School of Management and Finance in Wroclaw, Poland. I am currently completing a <b> Higher Diploma in Science in Data Analytics for Business with Python programming language.</b><br>
 I have 12 years of experience working as a credit analyst analyzing data, reporting outcomes, creating dashboards and improving results. Another aspect of my role was working closely with the technical department to improve processes, resolving issues, testing & validating data, supporting system upgrades. I was also involved in implementing new applications such as Oracle Business Intelligence suite and new Oracle modules. I played a key role in several projects: Jira ticketing system, Tableau server reporting package for Finance.<br>
-I have completed several continuous Professional Diplomas ( level 8 ) covering Database Systems, Python for Data Management and Data Analytics with Dublin Universities. <br>
+I have completed several continuous Professional Diplomas ( level 8 ) covering Database Systems with MySQL, Python for Data Management and Data Analytics with Rapid Miner at Dublin Universities. <br>
 I also have many passion projects that have strengthened my analytical abilities. I am searching for a data analytics position in Ireland. Please take a look at my portfolio and send me an email with any questions that you may have. 
 Thank you 
 Sylwia
