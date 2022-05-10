@@ -14,7 +14,35 @@ Sylwia
 
 ## I. Machine Learning projects using Python
 
-## [Project 1:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
+
+## [Project 1:](https://github.com/SylwiaKmiec/TimeSeries-SARIMA)
+[link to the project:](https://github.com/SylwiaKmiec/TimeSeries-SARIMA)
+
+# TimeSeries-SARIMA
+
+Time series analysis and forecasting performed on the data taken from kaggle:
+
+https://www.kaggle.com/datasets/ahmedadam415/digital-currency-time-series
+
+### Data Content:
+
+The data represents historical daily time series for a digital currency (BTC) traded on the Saudi market (SAR/Sudi Riyal)
+Prices and volumes are quoted in both SAR & USD.
+Data date range: 2018-05-11 to 30.01.2021
+
+Performed:
+- Dickey Fuller Test
+- ARIMA model
+- SARIMAX model
+- Evaluation of models
+
+
+![timeseries_1](https://user-images.githubusercontent.com/80470115/167657424-c11a68f2-0a40-4e59-9dbf-fb7d66dddf92.png)
+
+![timeseries2](https://user-images.githubusercontent.com/80470115/167657442-e9135ffa-5896-43a7-b646-eb4f26d2972f.png)
+
+
+## [Project 2:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
 [link to the project:](https://github.com/SylwiaKmiec/Ebay-bidding-prediction)
 
 ## Ebay-bidding prediction
@@ -44,7 +72,7 @@ to predict the bids in the future.
 ![ebay_com](https://user-images.githubusercontent.com/80470115/166143211-e1c3c588-fbef-46e6-a0da-3267851cf528.png)
 
 
-## [Project 2:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
+## [Project 3:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
 [link to the project:](https://github.com/SylwiaKmiec/mice-protein-expression_clustering.git)
 
 ## mice-protein-expression_clustering 
@@ -65,7 +93,7 @@ to predict the bids in the future.
 
 
 
-## [Project 3:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
+## [Project 4:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
   [link to the project:](https://github.com/SylwiaKmiec/Customer-Churn-prediction-Feature-selection-methods.git)
  
 #### Customer Churn predictin and Feature selection
