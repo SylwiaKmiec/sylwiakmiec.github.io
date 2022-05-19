@@ -145,4 +145,19 @@ The results have been analysed and compared to target.
 
 ![excel](https://user-images.githubusercontent.com/80470115/166806159-7da0f780-89cb-4f42-8432-9faeb5e99102.png)
 
+## IV. Visualizations (Python)
+
+[Project 1:](/github.com/SylwiaKmiec/Time-series-Visualization-Plotly_Seaborn))
+[link to the project](https://github.com/SylwiaKmiec/Time-series-Visualization-Plotly_Seaborn)
+   
+#### 1. Playing with colors when visualizing Time Series data in Plotly and Seaborn
+
+Using data taken from Kaggle: https://www.kaggle.com/datasets/prasertk/major-social-media-stock-prices-20122022
+
+Visualizing Stock Prices of 5 most popular Social Media companies. 
+![plotly_1](https://user-images.githubusercontent.com/80470115/169268654-1b4cc83a-06f9-4a70-b030-06b855bfd077.png)
+![plotly_2](https://user-images.githubusercontent.com/80470115/169268678-3dbc9c37-0fc1-4c90-b0e4-f3cbb8245c4c.png)
+
+
+
 
