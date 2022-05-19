@@ -147,7 +147,7 @@ The results have been analysed and compared to target.
 
 ## IV. Visualizations (Python)
 
-[Project 1:](/github.com/SylwiaKmiec/Time-series-Visualization-Plotly_Seaborn))
+## [Project 1:](/github.com/SylwiaKmiec/Time-series-Visualization-Plotly_Seaborn)
 [link to the project](https://github.com/SylwiaKmiec/Time-series-Visualization-Plotly_Seaborn)
    
 #### 1. Playing with colors when visualizing Time Series data in Plotly and Seaborn
