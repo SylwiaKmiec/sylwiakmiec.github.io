@@ -16,7 +16,7 @@ Sylwia
 ## I. Machine Learning projects using Python
 
 ## [Project 1:](https://github.com/SylwiaKmiec/Eearthquakes_Volcanoes-Analysis)
-[link to the project:] (https://github.com/SylwiaKmiec/Eearthquakes_Volcanoes-Analysis)
+[link to the project:](https://github.com/SylwiaKmiec/Eearthquakes_Volcanoes-Analysis)
 
 # <b> How likely is it that an earthquake will lead to volcanic eruptions? </b>
 
