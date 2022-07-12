@@ -190,4 +190,4 @@ Visualizing Stock Prices of 5 most popular Social Media companies.
 ![plotly_2](https://user-images.githubusercontent.com/80470115/169268678-3dbc9c37-0fc1-4c90-b0e4-f3cbb8245c4c.png)
 
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
