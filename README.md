@@ -190,5 +190,6 @@ Visualizing Stock Prices of 5 most popular Social Media companies.
 ![plotly_2](https://user-images.githubusercontent.com/80470115/169268678-3dbc9c37-0fc1-4c90-b0e4-f3cbb8245c4c.png)
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sylwia-kmiec-39985557" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/sylwia-kmiec-39985557?trk=profile-badge">Sylwia Kmiec</a></div>
+              
 
