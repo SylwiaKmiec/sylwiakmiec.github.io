@@ -9,8 +9,10 @@ description: >
   CCT College Dublin
   <br><br>
 
-  <<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sylwia-kmiec-39985557" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/sylwia-kmiec-39985557?trk=profile-badge">Sylwia Kmiec</a></div>
-              >
+
+social_links:
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sylwia-kmiec-39985557" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/sylwia-kmiec-39985557?trk=profile-badge">Sylwia Kmiec</a></div>
+              
   <a href="https://www.linkedin.com/in/sylwia-kmiec-39985557/"> View My LinkedIn Profile</a>
 
 
